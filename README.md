@@ -3,6 +3,5 @@
  
  The game will restart automatically two seconds after ending.
 
-## Screenshots
-!(images/1.jpg)
-!(images/2.jpg)
+## Screenshot
+<img src="images/1.jpg" width="240" height="480">
